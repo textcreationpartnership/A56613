@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief exposition of the Ten Commandments and the Lords Prayer by Symon Patrick ...</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56613</idno>
+            <idno type="STC">Wing P758</idno>
+            <idno type="STC">ESTC R666</idno>
+            <idno type="EEBO-CITATION">13170081</idno>
+            <idno type="OCLC">ocm 13170081</idno>
+            <idno type="VID">98265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98265)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 432:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief exposition of the Ten Commandments and the Lords Prayer by Symon Patrick ...</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[6], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's prayer --  Early works to 1800.</term>
+               <term>Ten commandments --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98265:1" rendition="simple:additions"/>
+            <p>A Brief Expoſition OF THE Ten Commandments AND THE LORDS PRAYER.</p>
+            <p>By <hi>Symon Patrick</hi> Rector of <hi>St. Paul Covent-Garden.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Tyton,</hi> at the three Daggers near the Inner-Temple Gate in <hi>Fleetſtreet.</hi> 1668.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98265:2"/>
+            <head>TO MY Well-beloved FRIENDS THE PARISHIONERS OF <hi>St.</hi> Paul <hi>Covent Garden.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here being a ſolemn Vow upon you, made in Baptiſm, <hi>to keep Gods holy Will and Commandments;</hi> it's as neceſſary to underſtand them, as it is to be honeſt men, and not to falſifie or break your word. For an help therefore to the meaneſt capacities in a bu<g ref="char:EOLhyphen"/>ſineſs of ſuch importance, I have drawn up an ex<g ref="char:EOLhyphen"/>poſition of the <hi>Ten Commandments</hi> in this plain and familiar way of Queſtions and Anſwers: not knowing what other courſe to take that would be of ſuch general uſe. For the Ignorant can reap little benefit by that which is purpoſely contrived to the pitch of the wiſe; but there is no man of ſuch un<g ref="char:EOLhyphen"/>derſtanding that may not ſerve himſelf very much of that which is writ to the ſimple people. And to ſay the truth, the plainer and more common any no<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:98265:2"/>
+is, of the greater weight and moment we ſhall find it, and the more every man is concerned in it. Let me intreat you then not to deſpiſe this little Pa<g ref="char:EOLhyphen"/>per, but to read it deliberately, and ponder every ſen<g ref="char:EOLhyphen"/>tence in it: For it being ſo brief (that the memory may not be burdened) there is not a word ſuperfluous, which is not neceſſary to the unfolding the ſenſe of the command. Search the Scriptures alſo whereby every thing is proved, and afterward ſearch and ex<g ref="char:EOLhyphen"/>amine your ſelves about the breach of any of theſe Precepts either in whole or in part. And if the Judgements of God, that lie now ſo heavy upon us, have begot any purpoſes of amendment, do not add this new aggravation of your guilt, to break thoſe freſh Vows whereby you have bound your ſelves to God. And for the ſtrengthening of them, <hi>Give your ſelves to Prayer,</hi> as the Pſalmiſts phraſe is <hi>Pſal. 109.4.</hi> Conſidering alſo ſeriouſly (as an help to that) what it is you ask of God in that form of Prayer which our Lord made, of which I have alſo added a ſhort Explication. And remember withall, that all the Prayers you make will not profit you, unleſs they cauſe you to keep Gods commands better, which is the end likewiſe of all you believe. Read over that which we call the <hi>Apoſtles Creed,</hi> and you will find that every branch of it doth naturally bring forth an holy life. When you confeſs God to be the Creator of the World; it plainly implyes his Supream Authority over you, and the obedience you owe him upon that account. When you acknowledge
+<pb facs="tcp:98265:3"/>
+Jeſus to be his Son and your Lord, it layes a neceſſa<g ref="char:EOLhyphen"/>ry ingagement on you to be governed by thoſe Laws which the Father Almighty hath ſent him to give us. For he dyed and roſe again to confirm and ſeal them. He aſcended to Heaven to take upon him the government of the whole World. And he will come again to judge both the quick and dead accord<g ref="char:EOLhyphen"/>ing to their works. And therefore what manner of perſons ought you to be in all holy converſation and godlineſs, that you may be found in peace at his ap<g ref="char:EOLhyphen"/>pearing? But it is not my buſineſs now to expound the Creed; whoſe words are better underſtood, than its deſign; which is (I ſay) to lead us to the obe<g ref="char:EOLhyphen"/>dience of Gods holy will in all things. That is it which I would gladly promote. And I earneſtly beſeech you that this ſmall labour may have no ſmall effect, but be ſo ſucceſsful as to excite in you ſuch a <hi>working Faith</hi> as will ſave your ſouls.</p>
+            <p>God Almighty take you into his protection, and revoke the Orders he hath given to the deſtroying Angel; that you may not die, but live, to declare the works of the Lord, and to pay your Vows to the Moſt High. Amen.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Sept. 13. 1665.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="ten_commandments">
+            <pb facs="tcp:98265:3"/>
+            <head>Exodus XX.</head>
+            <p>GOD ſpake all theſe words, ſaying, I am the LORD thy God, which have brought thee out of the land of Egypt, out of the houſe of bondage.</p>
+            <p n="1">1 Thou ſhalt have no other gods before me.</p>
+            <p n="2">2 Thou ſhalt not make unto thée any graven image, nor any likeneſs <hi>of any thing,</hi> that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou ſhalt not bow down thy ſelf to them, nor ſerve them: For I the LORD thy God <hi>am</hi> a Iealous God, viſiting the iniquity of the Fathers upon the chil<g ref="char:EOLhyphen"/>dren, unto the third and fourth <hi>generation</hi> of them that hate me: and ſhewing mercy unto thouſands of them that love me and keep my Commaundments.</p>
+            <p n="3">3 Thou ſhalt not take the name of the LORD thy God in vain: for the LORD will not hold him guiltleſs, that taketh his name in vain.</p>
+            <p n="4">4 Remember the Sabbath day to kéep it holy: Six days ſhalt thou labour, and do all thy work, but the ſeventh day is the Sabbath of the LORD thy God, <hi>in it</hi> thou ſhalt not do any work, thou, nor thy ſon, nor thy daugh<g ref="char:EOLhyphen"/>ter, thy man-ſervant, nor thy maid-ſervant, nor thy Cat<g ref="char:EOLhyphen"/>tel, nor thy ſtranger that <hi>is</hi> within thy gates: For in ſix
+<pb facs="tcp:98265:4"/>
+days the Lord made heaven and earth, the ſea, and all that in them is, and reſted the ſeventh day: wherefore the LORD bleſſed the Sabbath day, and hallowed it.</p>
+            <p n="5">5 Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thée.</p>
+            <p n="6">6 Thou ſhalt not kill.</p>
+            <p n="7">7 Thou ſhalt not commit adultery.</p>
+            <p n="8">8 Thou ſhalt not ſteal.</p>
+            <p n="9">9 Thou ſhalt not bear falſe witneſs againſt thy neigh<g ref="char:EOLhyphen"/>bour.</p>
+            <p n="10">10 Thou ſhalt not covet thy neighbours houſe, thou ſhalt not covet thy neighbors wife, nor his man-ſervant, nor his maid-ſervant, nor his oxe, nor his aſs, nor any thing that <hi>is</hi> thy neighbours.</p>
+         </div>
+         <div type="prayer">
+            <head>The LORDS PRAYER.</head>
+            <p>OVR Father which art in Heaven, Hallowed be thy Name, Thy Kingdom come, Thy will be done on Earth as it is in Heaven, Give us this day our daily bread, And forgive us our treſpaſſes, as we forgive them that treſpaſs againſt us, And lead us not into temptati<g ref="char:EOLhyphen"/>on, but deliver us from evil: for thine is the Kingdom, and the power, and the glory, for ever, and ever. Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98265:4"/>
+            <head>A Brief EXPOSITION OF THE Ten Commandments AND THE Lords Prayer.</head>
+            <p>Queſtion.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat doth the Preface to the Commandments teach you?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+               <note place="margin">Lev. 11.44, 45. Lev. 19.1, 2, 3. Lev. 20.7, 8. Deu. 10.12, 13</note> The right that God hath to Command, and the reaſon that I have to obey, both as he is my Creator and Benefactor.</p>
+            <p>Q. <hi>
+                  <g ref="char:V">Ʋ</g>nto what Duties doth the firſt Com<g ref="char:EOLhyphen"/>mandment engage you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To acknowledge the one God of <hi>Iſrael</hi> to be the only true God, ſo as to honour<note n="a" place="margin">Mal. 1.6.</note>, worſhip<note n="b" place="margin">Pſal. 95.6, 7. Pſal. 96.6, 7, 9.</note>, fear<note n="c" place="margin">Lev. 19.14.</note>, love<note n="d" place="margin">Mat. 22.37.</note>, and believe him<note n="e" place="margin">2 Chr. 20.20.</note>, to truſt<note n="f" place="margin">Pſal. 62.7, 8.</note>, and hope<note n="g" place="margin">Pſal. 130.7.</note> in him, to offer the ſacrifices of Prayer and Praiſe to him<note n="h" place="margin">Pſ. 50.14, 15. Pſ. 110.1, 2, 3.</note>, and perform all other du<g ref="char:EOLhyphen"/>ties<note n="i" place="margin">Deut. 10.12.20, 21.</note>, which a creature owes to his all-ſeeing Creator<note n="k" place="margin">Heb. 4.13.</note>, and to him only<note n="l" place="margin">Matth. 4.10.</note>.</p>
+            <p>Q <hi>What Duties do you think are required of you by the ſecond Commandment?</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:98265:5"/>
+               <hi>A.</hi> That I give all that external wor<g ref="char:EOLhyphen"/>ſhip<note n="m" place="margin">Pſal. 95.6. 1 Cor. 6.20.</note> to the inviſible God which he hath preſcribed, but by no means make any cor<g ref="char:EOLhyphen"/>poreal<note n="n" place="margin">Deut. 4.12, 15, 16, 17, 18, 23. Iſa. 40.18, &amp;c.</note> image of him, nor give ſuch re<g ref="char:EOLhyphen"/>ligious worſhip to the image of any thing whatſoever it<note n="o" place="margin">Pſal. 97.7.</note> be.</p>
+            <p>Q. <hi>Can you diſcern any reaſon whereby God doth inforce this Command?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, I obſerve <hi>firſt</hi> that he was <hi>jealous</hi> of his own people, that the very having of an Image would eſtrange them from him. And <hi>ſecondly,</hi> That ſuch wor<g ref="char:EOLhyphen"/>ſhippers of other things he accounts <hi>Ha<g ref="char:EOLhyphen"/>ters</hi> of him, and will puniſh them even in their Poſterity, to the <hi>Third and Fourth Generation.</hi> And <hi>thirdly,</hi> that he will multiply mercies <hi>To many Ages</hi> upon thoſe who only ſerve him, as the perſons who truly <hi>Love and obey him.</hi>
+            </p>
+            <p>Q. <hi>What are the Duties to which by the third Commandment you take your ſelf to be obliged?</hi>
+            </p>
+            <p>
+               <hi>A. Firſt,</hi> Not voluntarily upon any occaſion<note n="p" place="margin">Mat. 5.34, 35, &amp;c. Jam. 5.12.</note>, or for any purpoſe to ſwear at all; and <hi>ſecondly,</hi> when upon weighty cauſes I am legally required, never to ſwear falſely<note n="q" place="margin">Mat. 5.33. Eccleſ. 5.4, 5.</note>, nor promiſe that which I mean not to perform; and <hi>thirdly,</hi> not to uſe the name of God but with great<note n="r" place="margin">Lev. 19.12.</note> re<g ref="char:EOLhyphen"/>verence.</p>
+            <p>Q. <hi>Are the ſins againſt this Command<g ref="char:EOLhyphen"/>ment more dangerous than others?</hi>
+            </p>
+            <p>
+               <note place="margin">Zach. 5.3, 4. Jam. 5.12.</note>
+               <hi>A.</hi> Yes, Gods plagues ſhall certainly light upon ſuch ſinners. For he ſaith ex<g ref="char:EOLhyphen"/>preſly, <hi>He will not hold them guiltleſs.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:98265:5"/>Q. <hi>What do you think the fourth Com<g ref="char:EOLhyphen"/>mandment teacheth you?</hi>
+            </p>
+            <p>
+               <hi>A. Firſt,</hi> To ſet apart from my lawful, worldly imployments and recreations, one day in ſeven for the ſolemn worſhip of God<note n="ſ" place="margin">Luke 4.16. Acts 13.14, 27. Acts 17.2.</note>; That I may advance my<note n="t" place="margin">Pſal. 92.1, 2.12, 13, 14.</note> ſoul in Piety, and learn to ceaſe all my life from ſin<note n="u" place="margin">Heb. 4.10.</note>, thereby preparing my ſelf for the eternal praiſing of God and my Re<g ref="char:EOLhyphen"/>deemer, in the Reſt which remains for his people<note n="*" place="margin">Heb. 4.9.</note>: and <hi>ſecondly,</hi> to endeavour to bring thoſe who are under my charge to the ſame obſervation.</p>
+            <p>Q. <hi>But why do you obſerve the firſt day of the week, when the Commandment ſpeaks of the ſeventh?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In memory of Chriſts riſing from the dead on the firſt day,<note place="margin">Acts 20.7. 1 Cor. 16.2. Rev. 1.10.</note> that he might enter into his glorious reſt, having here fi<g ref="char:EOLhyphen"/>niſhed his work of redemption: for which I have the example of the holy Apoſtles, and the Church of God.</p>
+            <p>Q <hi>What do you here take notice of, that en<g ref="char:EOLhyphen"/>forces your allowing Gods Worſhip ſuch a porti<g ref="char:EOLhyphen"/>on of your time?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I ſee that he hath allowed me ſix times as much for my worldly buſineſs; and that he himſelf hath by his proceed<g ref="char:EOLhyphen"/>ing in the Creation, ſignified ſo much to me, and thereupon allowed one day, af<g ref="char:EOLhyphen"/>ter ſix dayes labour, to be a day of bleſſings unto me.</p>
+            <p>Q. <hi>What do you think you are bound to practiſe by the fifth Commandment?</hi>
+            </p>
+            <p>
+               <hi>A. Firſt,</hi> To reverence<note n="x" place="margin">Heb. 12.9.</note>, love<note n="y" place="margin">1 Tim. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.</note> and
+<pb n="4" facs="tcp:98265:6"/>
+obey<note n="z" place="margin">Luke 2.51. Col. 3.20. Eph. 6.1, 2.</note> in all things (not diſagreeing with Gods Commands<note n="a" place="margin">Luk. 14.26.</note>) my natural Pa<g ref="char:EOLhyphen"/>rents. <hi>Secondly,</hi> to reſpect the Aged<note n="b" place="margin">Lev. 19.32.</note>. <hi>Thirdly,</hi> To be ruled with humility by the Governours of the family<note n="c" place="margin">Eph. 6.5, &amp;c. Tit. 2.9, 10.</note>, Kingdom<note n="d" place="margin">Rom. 13.1, 5, 7. 1 Pet. 2.17.</note>, or Church where I live<note n="e" place="margin">Luke 10.16.</note>.</p>
+            <p>Q. <hi>What bleſſings attend upon ſuch obedi<g ref="char:EOLhyphen"/>ent perſons?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Commonly a long and proſperous life, <hi>Eph.</hi> 6.2, 3. <hi>Rom.</hi> 13.3. 1 <hi>Pet.</hi> 2.14. <hi>Pſal.</hi> 34.12, 13, 14.</p>
+            <p>Q. <hi>What duties do you charge your ſelf withal from the ſixth Commandment?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not to take away my own life<note n="*" place="margin">Acts 16.27, 28.</note>, nor any other mans<note n="†" place="margin">Gen. 9.6,</note> (unleſs publick Juſtice<note n="*" place="margin">Pſal. 101.8. Rom. 13.4.</note>, and neceſſary defence of my own life<note n="†" place="margin">Exod. 22.2. Deut. 22.26.</note> make it unavoidable) nor willingly to go to war, unleſs when I am lawful<g ref="char:EOLhyphen"/>ly commanded, for preſervation of the peace, <hi>Jam.</hi> 4.1, 2.</p>
+            <p>Q. <hi>Are theſe all?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, I take my ſelf neceſſarily en<g ref="char:EOLhyphen"/>gaged, <hi>Firſt,</hi> to ſuppreſs all cauſeleſs, and immoderate, long continued (though not cauſeleſs) anger<note n="f" place="margin">Mat. 5.21, 22.</note>. <hi>Secondly,</hi> to put away all contumelious railing, and con<g ref="char:EOLhyphen"/>tentious language<note n="g" place="margin">Ibid. &amp; Epheſ. 4.31.</note>. <hi>Thirdly,</hi> To root out all hatred, and to love even my ene<g ref="char:EOLhyphen"/>mies, and to do them good<note n="h" place="margin">1 John 3.15. Lu. 10.29, &amp;c. Mat. 5.44.</note>. <hi>Fourthly,</hi> to meditate no revenge of wrongs<note n="i" place="margin">Mat. 5.39, 40, 41.</note>. <hi>Fifthly,</hi> Not to oppreſs and gripe any man, but to relieve the poor<note n="k" place="margin">Iſaiah 1.15, 16, 17. Prov. 14.21.</note>.</p>
+            <p>Q. <hi>Do you take your ſelf to be reſtrained by the ſeventh Commandment from more than that which we call <hi>adultery?</hi>
+               </hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:98265:6"/>
+               <hi>A.</hi> Yes, I think all other acts<note n="l" place="margin">Heb. 13.4. 1 Cor. 6.9, 10.</note> and luſts<note n="m" place="margin">1 Theſſ. 4.4, 5, 7. Prov. 6.25.</note> of uncleanneſs, and whatſoever may be the cauſe or beginning of them<note n="n" place="margin">Rom. 13.13. Eph. 5.3, 4, 5. Col. 3.8. Ezek. 16.49, 50.</note>, are thereby prohibited; And that I may not ſo much as gaze upon a womans beau<g ref="char:EOLhyphen"/>ty to ſatisfie my luſt, without being guil<g ref="char:EOLhyphen"/>ty of hidden Adultery<note n="o" place="margin">Mat. 5.38. Matth. 5.32.</note>.</p>
+            <p>Q. <hi>Is there any thing elſe that you can here obſerve alſo to be forbidden?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, the putting away of a mans wife (except for adultery) and marrying another, or the marrying her that is ſo put away.</p>
+            <p>Q. <hi>What charge doth the eighth Command<g ref="char:EOLhyphen"/>ment give you?</hi>
+            </p>
+            <p>
+               <hi>A. Firſt,</hi> Not to take away or detain<note n="p" place="margin">Jam. 5.4. Deut. 24.15. Pro. 3.27, 28. 1 Tim. 5.18.</note> my Neighbours goods, either by force or fraud<note n="q" place="margin">Pro. 11.1. Lev. 19.13, 35. Deut. 25.14.</note>. <hi>Secondly,</hi> not to with-hold relief from thoſe that need it<note n="r" place="margin">1 John 3.17. Prov. 14.21. Lev. 19.9, 10, 11. Deut. 24.19.</note>.</p>
+            <p>Q. <hi>Is there any one precept which you think will ſecure all the duties of this Com<g ref="char:EOLhyphen"/>mandment?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, that of our Saviours. As you would that men ſhould do to you, do to them likewiſe, <hi>Luke</hi> 6.31. <hi>Matth.</hi> 7.12.</p>
+            <p>Q <hi>What do you apprehend to be the things forbidden in the ninth Command<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chiefly the giving any falſe Teſti<g ref="char:EOLhyphen"/>mony before a Judge againſt any man<note n="ſ" place="margin">Exodus 23.1. Deu. 19.18, 19.</note>. And alſo lying and falſe accuſation<note n="t" place="margin">Eph. 4.25. 1 Pet. 2.12. Luke 3.14.</note>. Whatſoever likewiſe may defame my bro<g ref="char:EOLhyphen"/>ther, or detract from him before men<note n="u" place="margin">Pſalm 15.3. Rom. 1.29, 30.</note>; and all raſh judgement, and cenſures of him in my own breaſt<note n="*" place="margin">Luke 6.37. Rom. 14.4. 1 Cor. 13.5, 7.</note>.</p>
+            <p>
+               <pb n="6" facs="tcp:98265:7"/>Q. <hi>What Obligations do you think the tenth Commandment layes upon you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not to deſire to my ſelf the poſ<g ref="char:EOLhyphen"/>ſeſſions of my Neighbour, nor to envy them to him; but to be content in what<g ref="char:EOLhyphen"/>ſoever ſtate I am, without carefulneſs for the future, <hi>Phil.</hi> 4.6, 11. <hi>Matth.</hi> 6. <hi>ult. Heb.</hi> 13.5.</p>
+            <p>Q <hi>Have you never obſerved any place of Scripture that briefly comprehends the ſumm of all theſe Commandments?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, Chriſt tells me of two Com<g ref="char:EOLhyphen"/>mandments upon which the whole Law and Prophets hang; which are mention<g ref="char:EOLhyphen"/>ed (beſides other places) in <hi>Matth.</hi> 22.37. <hi>&amp;c. Mar.</hi> 12.30, <hi>&amp;c. Rom.</hi> 13.8, 9, 10.</p>
+            <p>Q <hi>What is the meaning of thoſe words which ſecure all your duty to God,</hi> viz. <hi>Thou ſhalt love the Lord thy God with all thy heart, and all thy ſoul, and all thy mind, and all thy ſtrength?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That I eſteem and deſire him above all things, and beſtow upon him my whole ſelf.</p>
+            <p>Q <hi>What mean you by theſe words which give your neighbour ſecurity from you,</hi> viz. <hi>Love thy Neighbour as thy ſelf?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That I deal with every man ſo <hi>juſtly</hi> as I would he ſhould deal with me, and ſo <hi>mercifully</hi> as I wiſh to be dealt withal by God.</p>
+            <p>Q. <hi>Canſt thou do all theſe things of thy ſelf without Gods ſpecial grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, without me, ſaith Chriſt, ye can do nothing.</p>
+            <p>
+               <pb n="7" facs="tcp:98265:7"/>Q <hi>How do you think to obtain his grace?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> One way is by frequent prayer of faith.</p>
+            <p>Q. <hi>What is frequent prayer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That which bears ſome proportion to my minutely needs, to the greatneſs of the bleſſings which I ask, and to the favour of being invited to be much in the preſence of God, by praying without ceaſ<g ref="char:EOLhyphen"/>ing. 1 <hi>Theſſ.</hi> 5.17.</p>
+            <p>Q. <hi>When do you pray in faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When I pray with an humble con<g ref="char:EOLhyphen"/>fidence that God will give what I ask,<note place="margin">Jam. 1.5, 6, 7. Heb. 5.7.</note> and with an obedient readineſs to do that my ſelf which I deſire he would do for me.</p>
+            <p>Q. <hi>Hath Chriſt left any direction for your prayers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, he hath taught me when I pray, to ſay,<note place="margin">Luk. 11.2, &amp;c. Mat. 6.9, &amp;c.</note> 
+               <hi>Our Father which art in Heaven, hallowed be thy Name,</hi> &amp;c.</p>
+            <p>Q <hi>To whom do you direct your Prayer?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To our Father who is in Heaven.</p>
+            <p>Q. <hi>What do you mean by that appellation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I expreſs by it my reverence<note n="x" place="margin">Mal. 1.6. Eccl. 5.2.</note> to him, and my faith in him, that his good<g ref="char:EOLhyphen"/>neſs<note n="y" place="margin">Mat. 7.11.</note> will, and his power<note n="*" place="margin">Pſal. 115.3.</note> can, grant my requeſt for my ſelf and others.</p>
+            <p>Q. <hi>What are thoſe requeſts which you have ſuch an humble confidence that he will grant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are ſix. In the three firſt I more immediately reſpect his glory, in the three laſt my own good.</p>
+            <p>Q. <hi>What do you deſire in the firſt Peti<g ref="char:EOLhyphen"/>tion,
+<pb n="8" facs="tcp:98265:8"/>
+when you ſay, <hi>Hallowed be thy Name?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God may be known to be what he is<note n="z" place="margin">Rom. 11.36. 1 Tim. 1.17.</note>, and accordingly eſteemed<note n="a" place="margin">Pſal. 89.6.</note>, wor<g ref="char:EOLhyphen"/>ſhipped<note n="b" place="margin">Pſal. 97.7, 9.</note>, and praiſed<note n="c" place="margin">Pſalm 113.</note>, in word<note n="d" place="margin">Pſal. 63.4, 5.</note>, and deed<note n="e" place="margin">1 Cor. 10.31. Matth. 5.16. 2 Theſſ. 1.11, 12.</note>, throughout the world<note n="f" place="margin">Pſal. 86.9.</note>.</p>
+            <p>Q. <hi>What is it that you pray for in the ſe<g ref="char:EOLhyphen"/>cond, ſaying, <hi>Thy Kingdom come?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> That Chriſt may ſo rule in mine own, and all mens hearts by his holy Laws and ſpirit<note n="g" place="margin">Mat. 24.14. Rom. 6.12, 14.</note>, that his Kingdom in this world attaining its juſt height<note n="h" place="margin">1 Cor. 15.25.</note>, the eternal King<g ref="char:EOLhyphen"/>dom of the Father may appear<note n="i" place="margin">Mat. 13.43. 1 Cor. 15.28.</note>.</p>
+            <p>Q. <hi>What do you beg in the third, ſaying, <hi>Thy will be done in earth as it is in heaven?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> That he will give to me and to all men elſe his grace, whereby we may as cheerfully, unanimouſly, and impartially execute his Commands<note n="k" place="margin">Acts 9.6.</note>, and ſubmit to his diſpoſals<note n="l" place="margin">Acts 21.14.</note>, as the Angels do<note n="m" place="margin">Pſalm 103.20. Rev. 22.9.</note>.</p>
+            <p>Q. <hi>What do you intreat of God in the fourth, ſaying, <hi>Give us this day our daily bread?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> That he would day by day<note n="n" place="margin">Mat. 6.25, 34.</note> while we are in this world, grant us (in the uſe of honeſt means<note n="o" place="margin">2 Theſſ. 3.10, 11, 12.</note>) all things fitting and ſufficient for the ſupport of our bodily<note n="p" place="margin">1 Tim. 6.9.</note>, and ſpiritual life<note n="q" place="margin">Mat. 7.9, 11. Lu. 11.11, 13. Mat. 5.16. 2 Th. 1.11, 12.</note>.</p>
+            <p>Q. <hi>What is it that you ask in the fifth, ſaying, <hi>Forgive us our treſpaſſes, as we?</hi>
+               </hi> &amp;c.</p>
+            <p>
+               <hi>A.</hi> That he would not ſo charge us with our ſins, as to puniſh us<note n="r" place="margin">Pſalm 51.1.</note>; we promiſing the like kindneſs and mercy to the perſons who offend us<note n="ſ" place="margin">Mat. 5.7.</note>.</p>
+            <p>
+               <pb n="9" facs="tcp:98265:8"/>Q. <hi>But why doth Chriſt teach us to beg this thing conditionally, rather than any of the reſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> For two reaſons.</p>
+            <p>Q. <hi>What is your firſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To learn us that forgiveneſs of ſin (upon which all our Religion depends,<note place="margin">Iſa. 1.16, 17. Acts 3.19.</note> and without which we can expect none of the other bleſſings) is not abſolutely granted to any.</p>
+            <p>Q. <hi>What is your ſecond?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To learn us that this particular of forgiving others, is one of the moſt befit<g ref="char:EOLhyphen"/>ting<note n="t" place="margin">Eph. 4. ult.</note>, yet difficult conditions<note n="u" place="margin">Mat. 18.24, &amp;c. 35.</note>.</p>
+            <p>Q. <hi>What do you pray for in the ſixth and laſt petition, ſaying, <hi>Lead us not in<g ref="char:EOLhyphen"/>to temptation, but deliver us from evil?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> That God would give us grace to perſevere, and go on to perfection, that we may not fall back to our ſins again<note n="x" place="margin">John 5.14. John 8.11.</note>, by the force of any temptation<note n="y" place="margin">2 Tim. 4.17, 18. Rom. 16.20. 1 Pet. 5.8, 9. Luk. 22.31, 32.</note> from the world, the fleſh or the Devil.</p>
+            <p>Q <hi>Why do you ſo conclude all your re<g ref="char:EOLhyphen"/>queſts, ſaying, <hi>For thine is the Kingdom, the Power, and the Glory, for ever and ever? Amen.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> We do again expreſs, <hi>Firſt,</hi> our ſenſe, that to God of right belongs eter<g ref="char:EOLhyphen"/>nally that dominion, obedience, and ho<g ref="char:EOLhyphen"/>nour, which we aſcribed unto him<note n="z" place="margin">1 Tim. 6.15, 16.</note>; and <hi>Secondly,</hi> our confidence that he is willing, able, and in honour, ingaged to grant all theſe our petitions<note n="*" place="margin">Mat. 21.22. 2 Cor. 1.20. Eph. 3.20, 21.</note>.</p>
+            <p>
+               <hi>The Lord fulfil all thy Petitions,</hi> Pſal. 20.5.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
